@@ -1,0 +1,21 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+/* ----------------------------------------------------------------------------------
+共通部分 
+------------------------------------------------------------------------------------*/
+body{
+    background-color: mediumpurple;
+}
+
+.container{
+    width: 400px;
+    text-align: center;
+    padding-top: 300px;
+    vertical-align: middle;
+    margin:0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: mintcream;
+}
